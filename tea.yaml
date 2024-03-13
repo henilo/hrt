@@ -2,5 +2,10 @@
 ---
 version: 1.0.0
 codeOwners:
-  - '0x11E5D8f3C6c6E0dC6c15693ade95C81ae37ad1F5'
+  - '# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x24e044c8A1c80FB40d27d6Ab658A32F5F7D46a40'
+quorum: 1'
 quorum: 1
